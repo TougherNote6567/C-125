@@ -1,0 +1,26 @@
+body{
+    background-image: url("Background.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#blue{
+background-color:aquamarine;
+border-radius: 10px;
+position:fixed;
+top:0;
+width:100%;
+}
+#hl1{
+    color: black;
+}
+#n1{
+    color:midnightblue;
+}
+
+.footer{
+    background-color:mintcream;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    line-height:3;
+}
